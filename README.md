@@ -1,1 +1,3 @@
-# ChatBot
+# ChatBot TARS
+
+First of all, 
